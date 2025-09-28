@@ -1,1 +1,9 @@
+# Comparación de redacción de requerimientos (IEEE vs User Story) #
 
+| IEEE                                                                                                                            | User Story                                                                                                                 |
+|---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| El sistema debera visualizar la información cuando el administrador lo registre en la aplicación                                | Como estudiante quiero que la información de los productos sea clara y efectiva al momento de verla en la aplicación       |
+| El sistema debera generar una notificación cuando los productos esten apunto  de acabarse                                       | Como estudiante quiero que la aplicación me avise cuando algun producto se acabe, de esta manera estaria mejor organizado  |
+| El sistema debera permitir que el administrador registre, elimine o modifique  productos                                        | Como estudiante quiero que el administrador pueda hacer modificaciones  de acuerdo a sus necesidades                       |
+| El sistema debera permitir al administrador generar reportes diarios, mensuales y anuales                                       | Como estudiante quiero que para tener en cuenta cada registro ingresado el administrador realice los reportes              |
+| El sistema debera permitir al empleador buscar productos por medio de un QR o  por el nombre y que registrar el metodo de pago  | Como estudiante quiero que sea un poco mas facil y accesible para el  empleado buscar productos en el aplicativo           |
